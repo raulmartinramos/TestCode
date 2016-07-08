@@ -5,6 +5,7 @@
 # Ignored Directories
 \packages
 \TestResults
+\WPF
 
 # User-specific files
 *.suo
