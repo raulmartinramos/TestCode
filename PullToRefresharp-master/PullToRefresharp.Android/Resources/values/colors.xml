@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <color name="ptrsharp_sb_gradient_start">#0288D1</color>
+    <color name="ptrsharp_sb_gradient_end">@android:color/white</color>
+    <color name="ptrsharp_sb_header_text">@android:color/white</color>
+    <color name="ptrsharp_sb_header_text_shadow">@android:color/white</color>
+</resources>

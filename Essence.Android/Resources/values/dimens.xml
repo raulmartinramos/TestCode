@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+  <dimen name="drawer_width">240dp</dimen>
+  <dimen name="card_margin">16dp</dimen>
+  <dimen name="fab_margin">16dp</dimen>
+  <dimen name="fab_size_small">40dp</dimen>
+  <dimen name="fab_elevation">2dp</dimen>
+  <dimen name="detail_backdrop_height">160dp</dimen>
+</resources>
